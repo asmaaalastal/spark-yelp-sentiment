@@ -1,0 +1,15 @@
+metric,value
+total_rows,6990280
+invalid_stars,0
+stars_nulls,0
+text_nulls,0
+blank_texts,0
+text_min_len,1
+text_avg_len,567.76
+text_max_len,5000
+dup_review_id,duplicate review_id values: 0
+label_neg_planned,1613801
+label_pos_planned,4684545
+label_neu_planned,691934
+label_pos_pct_planned,74.3774
+label_neg_pct_planned,25.6226

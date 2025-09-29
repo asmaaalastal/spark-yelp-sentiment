@@ -1,0 +1,23 @@
+# ignore raw dataset + artifacts
+data/
+artifacts/
+
+# ignore parquet output directories inside runs (مثل 03_labeled_...parquet)
+runs/*.parquet/
+runs/**/*.parquet/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db

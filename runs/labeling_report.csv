@@ -1,0 +1,7 @@
+metric,value
+total_before,6990280
+total_after,6298346
+label_neg,1613801
+label_pos,4684545
+label_neg_pct,25.6226
+label_pos_pct,74.3774

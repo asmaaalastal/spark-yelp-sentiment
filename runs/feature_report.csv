@@ -1,0 +1,2 @@
+run_id,total_rows,vocab_uni,vocab_bi,out_parquet,out_model
+20250901_135748,6298346,50000,50000,../runs/04_features_20250901_135748.parquet,../artifacts/fe_pipeline_20250901_135748
