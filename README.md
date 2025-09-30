@@ -57,15 +57,12 @@ To run this project, make sure you have the following installed:
 - **Scikit-learn** (for additional evaluation if needed)  
 - **Matplotlib** (for plots)  
 
-📌 You can install the Python packages using:  
-```bash
-pip install pyspark pandas scikit-learn matplotlib
-
 ## 🔗 Links  
 - [📊 Yelp Dataset on Kaggle](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset)
 
 ## 👩‍💻 Author
 **Asmaa Alastal**  
-
 *Supervised by: Dr. Rebhi S. Baraka*
+
+
 
