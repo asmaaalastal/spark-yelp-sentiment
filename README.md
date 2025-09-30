@@ -2,7 +2,7 @@
 📊 Sentiment classification of Yelp reviews using **Logistic Regression** implemented in **Apache Spark (PySpark)**.  
 The project focuses on **scalability, efficiency, and performance analysis** across different core settings.  
 
-## 📝 Problem Description  
+## 📝 Problem Description   
 The goal of this project is to classify Yelp reviews into **positive** and **negative** sentiments.  
 The challenge comes from handling the **large-scale dataset** (over 6 million reviews) efficiently.  
 To solve this, we applied **Logistic Regression** on **Apache Spark**, which allows distributed processing and scalability.  
