@@ -73,7 +73,7 @@ To run this project, make sure you have the following installed:
 - **Code (this repo):** [https://github.com/asmaaalastal/spark-yelp-sentiment](https://github.com/asmaaalastal/spark-yelp-sentiment.git)
 ## 👩‍💻 Author
 **Asmaa Alastal**  
-*Supervised by: Dr. Rebhi S. Baraka*
+Supervised by: **Dr. Rebhi S. Baraka**
 
 
 
