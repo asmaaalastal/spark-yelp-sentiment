@@ -70,7 +70,7 @@ To run this project, make sure you have the following installed:
 
 ## 🔗 Links  
 - [📊 Yelp Dataset on Kaggle](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset)
-
+- **Code (this repo):** [https://github.com/asmaaalastal/spark-yelp-sentiment](https://github.com/asmaaalastal/spark-yelp-sentiment.git)
 ## 👩‍💻 Author
 **Asmaa Alastal**  
 *Supervised by: Dr. Rebhi S. Baraka*
