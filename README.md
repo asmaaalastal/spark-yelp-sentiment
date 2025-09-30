@@ -1,5 +1,5 @@
 # ⚡ Spark Yelp Sentiment Analysis  
-📊 Sentiment classification of Yelp reviews using **Logistic Regression** implemented in **Apache Spark (PySpark)**.  
+Sentiment classification of Yelp reviews using **Logistic Regression** implemented in **Apache Spark (PySpark)**.  
 The project focuses on **scalability, efficiency, and performance analysis** across different core settings.  
 
 ## 📝 Problem Description   
@@ -69,7 +69,7 @@ To run this project, make sure you have the following installed:
 - **Matplotlib** (for plots)  
 
 ## 🔗 Links  
-- [📊 Yelp Dataset on Kaggle](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset)
+- **Dataset:**[ Yelp Dataset on Kaggle](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset)
 - **Code (this repo):** [https://github.com/asmaaalastal/spark-yelp-sentiment](https://github.com/asmaaalastal/spark-yelp-sentiment.git)
 ## 👩‍💻 Author
 **Asmaa Alastal**  
