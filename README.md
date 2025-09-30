@@ -49,14 +49,14 @@ To solve this, we applied **Logistic Regression** on **Apache Spark**, which all
 
 ## 📊 Plots
 **Training**
-- Duration vs Cores: <img width="1920" height="1440" alt="training_duration" src="https://github.com/user-attachments/assets/eb791763-2028-45dc-90b6-3320d9ed74bf" />
-- Speedup vs Cores: <img width="1920" height="1440" alt="training_speedup" src="https://github.com/user-attachments/assets/c24d0064-0785-4d87-b27d-5ae9ad91c819" />
-- Efficiency vs Cores: <img width="1920" height="1440" alt="training_efficiency" src="https://github.com/user-attachments/assets/684ef2cd-8529-4c51-adcf-657997897fbd" />
+- Duration vs Cores: <img width="300" height="400" alt="training_duration" src="https://github.com/user-attachments/assets/eb791763-2028-45dc-90b6-3320d9ed74bf" />
+- Speedup vs Cores: <img width="300" height="400" alt="training_speedup" src="https://github.com/user-attachments/assets/c24d0064-0785-4d87-b27d-5ae9ad91c819" />
+- Efficiency vs Cores: <img width="300" height="400" alt="training_efficiency" src="https://github.com/user-attachments/assets/684ef2cd-8529-4c51-adcf-657997897fbd" />
 
 **Evaluation**
-- Duration vs Cores: <img width="1920" height="1440" alt="evaluation_duration" src="https://github.com/user-attachments/assets/5ea6691f-0de3-4d7d-ad4c-776938620c02" />
-- Speedup vs Cores: <img width="1920" height="1440" alt="evaluation_speedup" src="https://github.com/user-attachments/assets/f7b82cda-9abd-48f5-a05b-514c618a03a5" />
-- Efficiency vs Cores: <img width="1920" height="1440" alt="evaluation_efficiency" src="https://github.com/user-attachments/assets/4f625554-d4db-4a87-9544-99f8cf94351e" />
+- Duration vs Cores: <img width="300" height="400" alt="evaluation_duration" src="https://github.com/user-attachments/assets/5ea6691f-0de3-4d7d-ad4c-776938620c02" />
+- Speedup vs Cores: <img width="300" height="400" alt="evaluation_speedup" src="https://github.com/user-attachments/assets/f7b82cda-9abd-48f5-a05b-514c618a03a5" />
+- Efficiency vs Cores: <img width="300" height="400" alt="evaluation_efficiency" src="https://github.com/user-attachments/assets/4f625554-d4db-4a87-9544-99f8cf94351e" />
 
 ## ⚙️ Requirements  
 
